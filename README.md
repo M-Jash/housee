@@ -1,3 +1,7 @@
+INTERNSHIP ID: CITS2924
+NAME : MADAM JASHWANTH 
+WEEKS : 8
+PROJECT NAME :  House Price Predictor
 # 🏠 House Price Predictor
 
 A Machine Learning web application that predicts the estimated price of a house based on property features entered by the user. The application is built using **Python**, **Scikit-learn**, and **Streamlit**, providing an interactive interface for real-time house price prediction.
